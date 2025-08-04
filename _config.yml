@@ -13,7 +13,7 @@ title                    : "Danielle Schmidt-Larios"
 title_separator          : "-"
 name                     : &name "Danielle Schmidt-Larios"
 description              : &description "personal description"
-url                      : https://danielle-schmidt.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://danielle-schmidt.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danielle-schmidt.github.io"
 
@@ -23,9 +23,9 @@ repository               : "danielle-schmidt.github.io"
 author:
   # Biographic information
   avatar           : "headshot_2025.jpg"
-  name             : "Danielle Schmidt-Larios"
-  pronouns         : # example: "she/her"  
-  bio              : "I am a mixed-methods rural and environmental sociologist applying ethnographic sensibilities and spatial thinking to the study of rural communities and ag land."
+  name             : #
+  pronouns         : #   
+  bio              : "I am a mixed-methods rural and environmental sociologist. I apply ethnographic sensibilities and spatial thinking to the study of rural communities and ag land."
   location         : "Madison, WI"
   employer         : "UW-Madison"
   uri              : # URL
