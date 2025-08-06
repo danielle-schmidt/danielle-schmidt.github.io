@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="background-color:#46697b; padding: 1rem; text-align: center; border-bottom: 0.5px solid #ccc;">
-  <p style="margin-top: 0.5rem; color:#bf9000">I am a mixed-methods rural and environmental sociologist applying ethnographic sensibilities and spatial thinking to the study of rural communities and ag land.</p>
+  <p style="margin-top: 0.5rem; color:#D3D3D3">I am a mixed-methods rural and environmental sociologist applying ethnographic sensibilities and spatial thinking to the study of rural communities and ag land.</p>
 </div>
 
 
