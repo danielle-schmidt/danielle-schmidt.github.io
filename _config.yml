@@ -13,7 +13,7 @@ title                    : "Danielle Schmidt-Larios"
 title_separator          : "-"
 name                     : &name "Danielle Schmidt-Larios"
 description              : &description "personal description"
-url                      : https://www.danielleschmidt.larios.com # the base hostname & protocol for your site 
+url                      : danielle-schmidt.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danielle-schmidt.github.io"
 
