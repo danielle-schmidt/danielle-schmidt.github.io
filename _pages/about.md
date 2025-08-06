@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 <div style="background-color:#f5f5f5; padding: 2rem; text-align: center; border-bottom: 1px solid #ccc;">
-  <h1 style="margin: 0;">Welcome to My Website</h1>
   <p style="margin-top: 0.5rem;">I am a mixed-methods rural and environmental sociologist applying ethnographic sensibilities and spatial thinking to the study of rural communities and ag land.</p>
 </div>
 
