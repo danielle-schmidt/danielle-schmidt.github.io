@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# jekyll serve -l -H localhost. If you change this file, please restart the 
 # server process.
 
 # Basic Site Settings
@@ -217,49 +217,23 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  research:
-    output: true
-    permalink: /research/:path/
   teaching:
     output: true
-    permalink: /teaching/:path/
-  outreach:
+    permalink: /:collection/:path/
+  publications:
     output: true
-    permalink: /outreach/:path/
-  resources:
+    permalink: /:collection/:path/
+  portfolio:
     output: true
-    permalink: /resources/:path/
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-
-  - scope:
-      path: ""
-      type: outreach
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-
+  # _resources
   - scope:
       path: ""
       type: resources
@@ -270,6 +244,33 @@ defaults:
       comments: true
       share: true
       related: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _outreach
+  - scope:
+      path: ""
+      type: outreach
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   
 
 
