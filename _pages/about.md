@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background-color:#f5f5f5; padding: 2rem; text-align: center; border-bottom: 1px solid #ccc;">
+<div style="background-color:#8b6767; padding: 1rem; text-align: center; border-bottom: 1px solid #ccc;">
   <p style="margin-top: 0.5rem;">I am a mixed-methods rural and environmental sociologist applying ethnographic sensibilities and spatial thinking to the study of rural communities and ag land.</p>
 </div>
 
