@@ -16,11 +16,27 @@
     flex: 1;
     display: flex;
     justify-content: space-between;
+    align-items: center;
   }
   
   .page-header-title {
     margin: 0;
     text-shadow: 0 0 2em #000000;
+  }
+
+  .nav-bar {
+    gap: 16px;
+    display: grid;
+    /* if you add another page, add +1 to 5 */
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .nav-bar a {
+    justify-self: end;
+    color: rgba(255, 255, 255, 0.87);
+    text-shadow: 0 0 2em #000000;
+    font-size: large;
+    font-weight: 600;
   }
   
   .page-content {

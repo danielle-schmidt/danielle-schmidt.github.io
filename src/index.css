@@ -76,3 +76,29 @@ a:hover {
     background-color: #f9f9f9;
   }
 }
+
+h1 {
+  font-size: x-large;
+}
+
+h2 {
+  font-size: large;
+}
+
+h3 {
+  font-size: medium;
+}
+
+@media (min-width: 1025px) {
+  h1 {
+    font-size: xx-large;
+  }
+
+  h2 {
+    font-size: x-large;
+  }
+
+  h3 {
+    font-size: large;
+  }
+}
