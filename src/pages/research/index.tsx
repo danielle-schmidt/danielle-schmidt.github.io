@@ -164,7 +164,7 @@ export function Research() {
           <h3>Media Mentions</h3>
           <p>
             “
-            <a className="https://volumeone.org/articles/2025/04/03/360453-eau-claire-county-scores-high-on-state-prosperity">
+            <a href="https://volumeone.org/articles/2025/04/03/360453-eau-claire-county-scores-high-on-state-prosperity">
               Eau Claire County Scores High on State 'Prosperity Index'
             </a>
             ”, VolumeOne News, April 3, 2025
