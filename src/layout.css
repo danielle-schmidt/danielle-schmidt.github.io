@@ -1,0 +1,31 @@
+.page-header {
+    background-image: url("./assets/cattle_grazing.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    min-height: 225px;
+    padding: 6vw;
+  }
+  
+  .page-header-content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .page-header-title {
+    margin: 0;
+    text-shadow: 0 0 2em #000000;
+  }
+  
+  .page-content {
+    flex: 1;
+    padding: 3vw 6vw;
+    max-width: 1280px;
+  }
+  
+  @media (prefers-color-scheme: light) {
+    .page-header-title {
+      text-shadow: 0 0 4em #ffffff, 0 0 1em #ffffff, 0 0 0.5em #ffffff;
+    }
+  }
