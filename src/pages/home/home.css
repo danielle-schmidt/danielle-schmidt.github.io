@@ -1,4 +1,5 @@
 .home-page-content {
+  max-width: 1280px;
   width: 100%;
   display: grid;
   gap: 2rem;
@@ -9,6 +10,7 @@
 @media (min-width: 769px) {
   .home-page-content {
     grid-template-columns: minmax(200px, min(350px, 40%)) 1fr;
+    grid-template-rows: auto;
   }
 }
 

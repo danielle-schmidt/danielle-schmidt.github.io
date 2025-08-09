@@ -1,5 +1,5 @@
 import { Layout } from "../../layout";
-import danielleAndArchie from "../../assets/danielle_and_archie.png";
+import danielleHeadshot from "../../assets/headshot_2025.jpg";
 
 import "./home.css";
 
@@ -8,10 +8,7 @@ export const Home = () => {
     <Layout>
       <div className="home-page-content">
         <div className="image-content">
-          <img
-            src={danielleAndArchie}
-            alt="Schmidt-Larios and her research assistant, Archie, overlooking the Kickapoo Valley from the top of Black Hawk Rock in early spring"
-          />
+          <img src={danielleHeadshot} alt="Danielle Schmidt-Larios" />
         </div>
         <div className="text-content">
           <p>
