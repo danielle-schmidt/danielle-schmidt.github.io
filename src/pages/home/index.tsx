@@ -6,7 +6,7 @@ import "./home.css";
 export const Home = () => {
   return (
     <Layout>
-      <div className="page-content">
+      <div className="home-page-content">
         <div className="image-content">
           <img
             src={danielleAndArchie}
