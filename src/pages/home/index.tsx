@@ -13,16 +13,25 @@ export const Home = () => {
         <div className="text-content">
           <p>
             Danielle Schmidt-Larios is a PhD Candidate at the University of
-            Wisconsin-Madison in the joint departments of Sociology and
-            Community and Environmental Sociology. She is broadly interested in
-            rural and environmental sociology with ongoing research projects
-            relating to transitions in land tenure, the well-being of
-            agricultural workers, and rural livability. As a community-engaged
-            mixed-methodologist, Schmidt-Larios incorporates ethnographic
-            sensibilities and spatial thinking to investigate the concepts of
-            place, land, and home. Her work has been published in journals such
-            as Rural Sociology, Journal of Agriculture, Food Systems, and
-            Community Development, and International Regional Science Review.
+            Wisconsin-Madison in the joint departments of{" "}
+            <a href="https://sociology.wisc.edu/" target="_blank">
+              Sociology
+            </a>{" "}
+            and{" "}
+            <a href="https://dces.wisc.edu/" target="_blank">
+              Community and Environmental Sociology
+            </a>
+            . She is broadly interested in rural and environmental sociology
+            with ongoing research projects relating to and Environmental
+            Sociology. She is broadly interested in rural and environmental
+            sociology with ongoing research projects relating to transitions in
+            land tenure, the well-being of agricultural workers, and rural
+            livability. As a community-engaged mixed-methodologist,
+            Schmidt-Larios incorporates ethnographic sensibilities and spatial
+            thinking to investigate the concepts of place, land, and home. Her
+            work has been published in journals such as Rural Sociology, Journal
+            of Agriculture, Food Systems, and Community Development, and
+            International Regional Science Review.
           </p>
           <p>
             Schmidt-Larios received her undergraduate degree in Philosophy and
