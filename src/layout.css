@@ -1,0 +1,53 @@
+.page-header {
+  background-image: url("./assets/cattle_grazing.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  min-height: 225px;
+  padding: 6vw;
+
+  display: flex;
+  justify-content: center;
+}
+
+.page-header-content {
+  max-width: 1280px;
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.page-header-title {
+  margin: 0;
+  text-shadow: 0 0 2em #000000;
+}
+
+.page-content {
+  flex: 1;
+  padding: 3vw 6vw;
+  display: flex;
+  justify-content: center;
+}
+
+@media (prefers-color-scheme: light) {
+  .page-header-title {
+    text-shadow: 0 0 4em #ffffff, 0 0 1em #ffffff, 0 0 0.5em #ffffff;
+  }
+}
+
+.nav-bar {
+  gap: 16px;
+  display: grid;
+  /* if you add another page, add +1 to 5 */
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.nav-bar a {
+  justify-self: end;
+  color: rgba(255, 255, 255, 0.87);
+  text-shadow: 0 0 2em #000000;
+  font-size: large;
+  font-weight: 600;
+}
