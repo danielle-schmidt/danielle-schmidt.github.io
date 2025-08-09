@@ -5,6 +5,10 @@ export function Teaching() {
   return (
     <Layout>
       <div className="teaching-page-content">
+        <div>
+          "The primary task of a useful teacher is to teach his [sic] students
+          to recognize 'inconvenient' facts." Max Weber, 1918
+        </div>
         <p>
           My approach to teaching emphasizes critical thinking by drawing on
           students’ lived experiences to develop real-world skills. I believe
