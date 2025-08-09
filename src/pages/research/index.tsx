@@ -60,7 +60,10 @@ export function Research() {
             Schmidt, Danielle. “Towards an Emplaced Vocabulary of Motive: Senses
             of Place and Land Sale Decision-Making in the Northern Great
             Plains.” Rural Sociology 89, no. 4 (2024): 975–95.
-            https://doi.org/10.1111/ruso.12574.
+            <a href="https://doi.org/10.1111/ruso.12574" target="_blank">
+              https://doi.org/10.1111/ruso.12574
+            </a>
+            .
           </p>
         </div>
         <div>
@@ -113,18 +116,33 @@ export function Research() {
             Schmidt, Danielle. “Towards an Emplaced Vocabulary of Motive: Senses
             of Place and Land Sale Decision-Making in the Northern Great
             Plains.” Rural Sociology 89, no. 4 (2024): 975–95.
-            https://doi.org/10.1111/ruso.12574.
+            <a href="https://doi.org/10.1111/ruso.12574" target="_blank">
+              https://doi.org/10.1111/ruso.12574
+            </a>
+            .
           </p>
           <p>
             Curtis, Katherine J., Danielle D. Schmidt, and John C. Canfield.
             “Views on the Land.” Phillips County News, May 22, 2024.
-            https://www.phillipscountynews.com/story/2024/05/22/opinion/views-on-the-land/15471.html.
+            <a
+              href="https://www.phillipscountynews.com/story/2024/05/22/opinion/views-on-the-land/15471.html"
+              target="_blank"
+            >
+              https://www.phillipscountynews.com/story/2024/05/22/opinion/views-on-the-land/15471.html
+            </a>
+            .
           </p>
           <p>
             Curtis, Katherine J., John C. Canfield, and Danielle D. Schmidt. “A
             Report on Population and Ag Production in Phillips County, Montana.”
             University of Wisconsin - Madison, 2021.
-            https://apl.wisc.edu/shared/conservation-agriculture-rural/phillips-county.
+            <a
+              href="https://apl.wisc.edu/shared/conservation-agriculture-rural/phillips-county"
+              target="_blank"
+            >
+              https://apl.wisc.edu/shared/conservation-agriculture-rural/phillips-county
+            </a>
+            .
           </p>
         </div>
         <div>
@@ -153,18 +171,33 @@ export function Research() {
             Schmidt, Danielle, Tessa Conroy, and Steven Deller. 2025. “Pathways
             to Prosperity: Moving Beyond Growth to Evaluate Change in Community
             Well-Being.” Choices Magazine 40 (2).
-            https://www.choicesmagazine.org/choices-magazine/submitted-articles/pathways-to-prosperity-moving-beyond-growth-to-evaluate-change-in-community-well-being.
+            <a
+              href="https://www.choicesmagazine.org/choices-magazine/submitted-articles/pathways-to-prosperity-moving-beyond-growth-to-evaluate-change-in-community-well-being"
+              target="_blank"
+            >
+              https://www.choicesmagazine.org/choices-magazine/submitted-articles/pathways-to-prosperity-moving-beyond-growth-to-evaluate-change-in-community-well-being
+            </a>
+            .
           </p>
           <p>
             Schmidt, Danielle, Tessa Conroy, and Steven Deller. “Understanding
             Wisconsin Prosperity in the National Context.” WIndicators, November
             26, 2024.
-            https://economicdevelopment.extension.wisc.edu/articles/windicators-volume-7-issue-2-understanding-wisconsin-prosperity-in-the-national-context/.
+            <a
+              href="https://economicdevelopment.extension.wisc.edu/articles/windicators-volume-7-issue-2-understanding-wisconsin-prosperity-in-the-national-context/"
+              target="_blank"
+            >
+              https://economicdevelopment.extension.wisc.edu/articles/windicators-volume-7-issue-2-understanding-wisconsin-prosperity-in-the-national-context/
+            </a>
+            .
           </p>
           <h3>Media Mentions</h3>
           <p>
             “
-            <a href="https://volumeone.org/articles/2025/04/03/360453-eau-claire-county-scores-high-on-state-prosperity">
+            <a
+              href="https://volumeone.org/articles/2025/04/03/360453-eau-claire-county-scores-high-on-state-prosperity"
+              target="_blank"
+            >
               Eau Claire County Scores High on State 'Prosperity Index'
             </a>
             ”, VolumeOne News, April 3, 2025
