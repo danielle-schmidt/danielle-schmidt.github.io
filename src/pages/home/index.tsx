@@ -3,7 +3,7 @@ import danielleHeadshot from "../../assets/headshot_2025.jpg";
 
 import "./home.css";
 
-export const Home = () => {
+export function Home() {
   return (
     <Layout>
       <div className="home-page-content">
@@ -57,4 +57,4 @@ export const Home = () => {
       </div>
     </Layout>
   );
-};
+}
