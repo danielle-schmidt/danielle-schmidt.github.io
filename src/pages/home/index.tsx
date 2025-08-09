@@ -38,6 +38,15 @@ export const Home = () => {
             rider. She resides in Madison, Wisconsin with her two- and
             four-legged family members: Leo, Chet, and Archie.
           </p>
+          <div className="cv-link-container">
+            <a
+              className="cv-link"
+              href="/schmidt_cv_apr2025.pdf"
+              target="_blank"
+            >
+              View CV
+            </a>
+          </div>
         </div>
       </div>
     </Layout>
