@@ -6,9 +6,21 @@ export function Research() {
   return (
     <Layout>
       <div className="research-page-content">
-        <div>
+        <div
+          style={{
+            border: "1px solid black",
+            padding: "1rem",
+            margin: "1rem 0",
+          }}
+        >
           <h2>Dissertation: "Reserved"</h2>
-          <div>
+          <div
+            style={{
+              backgroundColor: "#74a992",
+              padding: "1rem",
+              margin: "1rem 0",
+            }}
+          >
             I am actively recruiting participants for this research study. If
             you have connections to either the Kickapoo Valley or Upper Missouri
             River Breaks and have personal or professional experience with
