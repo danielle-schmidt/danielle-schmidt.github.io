@@ -14,18 +14,13 @@ export function Research() {
           }}
         >
           <h2>Dissertation: "Reserved"</h2>
-          <div
-            style={{
-              backgroundColor: "#74a992",
-              padding: "1rem",
-              margin: "1rem 0",
-            }}
-          >
-            I am actively recruiting participants for this research study. If
-            you have connections to either the Kickapoo Valley or Upper Missouri
-            River Breaks and have personal or professional experience with
-            agricultural land transitions, I welcome you to get in touch.
-          </div>
+            <div className="recruitment-box">
+              I am actively recruiting participants for this research study. If you have
+              connections to either the Kickapoo Valley or Upper Missouri River Breaks and
+              have personal or professional experience with agricultural land transitions,
+              I welcome you to get in touch.
+            </div>
+           
           <p>
             Between 1950 and 2022, nearly a quarter of US agricultural land
             exited production, including 65 million acres over the course of a
