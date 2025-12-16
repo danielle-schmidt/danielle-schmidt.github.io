@@ -2,3 +2,9 @@
     max-width: 1280px;
     width: 100%;
 }
+
+.recruitment-box {
+  background-color: #74a992;
+  padding: 1rem;
+  margin: 1rem 0;
+}
