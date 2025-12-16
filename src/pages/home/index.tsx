@@ -26,10 +26,9 @@ export function Home() {
             land tenure, the well-being of agricultural workers, and rural
             livability. As a community-engaged mixed-methodologist,
             Schmidt-Larios incorporates ethnographic sensibilities and spatial
-            thinking to investigate the concepts of place, land, and home. Her
-            work has been published in journals such as <em>Rural Sociology</em>, <em>Journal
-            of Agriculture, Food Systems, and Community Development</em>, and
-            <em>International Regional Science Review</em>.
+            thinking to investigate the concepts of place, land, and home.  Her work has been published in journals such as <em>Rural Sociology</em>,{" "}
+  <em>Journal of Agriculture, Food Systems, and Community Development</em>, and{" "}
+  <em>International Regional Science Review</em>.
           </p>
           <p>
             Schmidt-Larios received her undergraduate degree in Philosophy and
