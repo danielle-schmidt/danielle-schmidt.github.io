@@ -21,17 +21,15 @@ export function Home() {
             <a href="https://dces.wisc.edu/" target="_blank">
               Community and Environmental Sociology
             </a>
-            . She is broadly interested in rural and environmental sociology
-            with ongoing research projects relating to and Environmental
-            Sociology. She is broadly interested in rural and environmental
+            . She is broadly interested in rural and environmental
             sociology with ongoing research projects relating to transitions in
             land tenure, the well-being of agricultural workers, and rural
             livability. As a community-engaged mixed-methodologist,
             Schmidt-Larios incorporates ethnographic sensibilities and spatial
             thinking to investigate the concepts of place, land, and home. Her
-            work has been published in journals such as Rural Sociology, Journal
-            of Agriculture, Food Systems, and Community Development, and
-            International Regional Science Review.
+            work has been published in journals such as <em>Rural Sociology</em>, <em>Journal
+            of Agriculture, Food Systems, and Community Development</em>, and
+            <em>International Regional Science Review</em>.
           </p>
           <p>
             Schmidt-Larios received her undergraduate degree in Philosophy and
@@ -47,7 +45,7 @@ export function Home() {
           <div className="cv-link-container">
             <a
               className="cv-link"
-              href="/schmidt_cv_apr2025.pdf"
+              href="/Dec2025_CV_Schmidt-Larios.pdf"
               target="_blank"
             >
               View CV
