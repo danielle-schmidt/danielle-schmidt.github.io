@@ -175,6 +175,17 @@ export function Research() {
           </p>
           <h3>Related Publications</h3>
           <p>
+          Schmidt, Danielle, Tessa Conroy, and Steven Deller. 2025. “Prosperity 
+          Across the United States: Revisiting the Isserman, Feser, and Warren 
+          Prosperity Index using Social Sequence Analysis.” International Regional Science Review. 
+            <a
+              href="https://doi.org/10.1177/01600176251377424"_blank"
+               >
+            https://doi.org/10.1177/01600176251377424
+             </a>
+            .
+          </p>
+          <p>
             Schmidt, Danielle, Tessa Conroy, and Steven Deller. 2025. “Pathways
             to Prosperity: Moving Beyond Growth to Evaluate Change in Community
             Well-Being.” Choices Magazine 40 (2).
@@ -207,8 +218,19 @@ export function Research() {
             >
               Eau Claire County Scores High on State 'Prosperity Index'
             </a>
-            ”, VolumeOne News, April 3, 2025
+            ”, Tom Giffey for VolumeOne News, April 3, 2025
           </p>
+          <p>
+            “
+            <a
+              href="https://www.insightonbusiness.com/latestnews/study-finds-wisconsin-ranks-as-one-of-most-prosperous-places-in-u-s/article_362449ce-eedf-11ef-85db-f726a0ea0b7b.html
+"_blank"
+            >
+              Study finds Wisconsin ranks as one of most prosperous places in U.S.
+            </a>
+            ”, Aaron Holbrook for Insight on Business, February 19, 2025
+          </p>
+
         </div>
       </div>
     </Layout>
