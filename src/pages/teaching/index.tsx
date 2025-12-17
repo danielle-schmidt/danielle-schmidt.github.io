@@ -5,7 +5,7 @@ export function Teaching() {
   return (
     <Layout>
       <div className="teaching-page-content">
-        <div>
+        <div className="callout-box">
           "The primary task of a useful teacher is to teach his [sic] students
           to recognize 'inconvenient' facts." Max Weber, 1918
         </div>
