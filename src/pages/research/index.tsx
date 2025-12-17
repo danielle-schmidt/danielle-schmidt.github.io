@@ -223,8 +223,8 @@ export function Research() {
           <p>
             “
             <a
-              href="https://www.insightonbusiness.com/latestnews/study-finds-wisconsin-ranks-as-one-of-most-prosperous-places-in-u-s/article_362449ce-eedf-11ef-85db-f726a0ea0b7b.html
-" target="_blank"
+              href="https://www.insightonbusiness.com/latestnews/study-finds-wisconsin-ranks-as-one-of-most-prosperous-places-in-u-s/article_362449ce-eedf-11ef-85db-f726a0ea0b7b.html"
+               target="_blank"
             >
               Study finds Wisconsin ranks as one of most prosperous places in U.S.
             </a>
