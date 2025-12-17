@@ -184,11 +184,10 @@ export function Research() {
             If you are interested in discussing this work, I invite you to get
             in touch or read more about the Rural Livability Project on our
             project website.
-          </p>
            <div className="quote-box">
              "Social, economic, and environmental justice issues do not grow any less significant as population density decreases" (Schmidt et al. 2025). 
             </div>
-          </p>
+         
           <h3>Related Publications</h3>
           <p>
           Schmidt, Danielle, Tessa Conroy, and Steven Deller. 2025. “Prosperity 
