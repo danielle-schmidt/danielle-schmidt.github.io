@@ -74,7 +74,7 @@ export function Research() {
           </p>
         </div>
         <div>
-          <h2>Changing Agricultural Landscapes</h2>
+          <h2 style="color: #335126;">Changing Agricultural Landscapes</h2>
           <p>
             Places are dynamic. There are, however, moments of reckoning when
             places are fundamentally reshaped. Professor Katherine Curtis and I
@@ -153,7 +153,7 @@ export function Research() {
           </p>
         </div>
         <div>
-          <h2>The Rural Livability Project</h2>
+          <h2 style="color: #46697b;">The Rural Livability Project</h2>
           <p>
             Rural places are often characterized by narratives of depopulation,
             disinvestment, and disengagement. While rural communities do face a
