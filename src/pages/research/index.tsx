@@ -74,7 +74,7 @@ export function Research() {
           </p>
         </div>
         <div>
-          <h2 class="changing-ag-heading">Changing Agricultural Landscapes</h2>
+          <h2 className="changing-ag-heading">Changing Agricultural Landscapes</h2>
           <p>
             Places are dynamic. There are, however, moments of reckoning when
             places are fundamentally reshaped. Professor Katherine Curtis and I
@@ -153,7 +153,7 @@ export function Research() {
           </p>
         </div>
         <div style="background-color: #a2b4bd; padding: 1.5rem; border-radius: 6px;">
-          <h2 class="rural-liv-heading">The Rural Livability Project</h2>
+          <h2 className="rural-liv-heading">The Rural Livability Project</h2>
           <p>
             Rural places are often characterized by narratives of depopulation,
             disinvestment, and disengagement. While rural communities do face a
@@ -179,7 +179,7 @@ export function Research() {
           Across the United States: Revisiting the Isserman, Feser, and Warren 
           Prosperity Index using Social Sequence Analysis.” International Regional Science Review. 
             <a
-              href="https://doi.org/10.1177/01600176251377424"target="_blank"
+              href="https://doi.org/10.1177/01600176251377424" target="_blank"
                >
             https://doi.org/10.1177/01600176251377424
              </a>
