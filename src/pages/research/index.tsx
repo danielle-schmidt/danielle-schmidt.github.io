@@ -73,7 +73,13 @@ export function Research() {
             .
           </p>
         </div>
-        <div>
+        <div
+          style={{
+            backgroundColor: "#99a892",
+            padding: "1.0rem",
+            borderRadius: "6px",
+          }}
+        >
           <h2 className="changing-ag-heading">Changing Agricultural Landscapes</h2>
           <p>
             Places are dynamic. There are, however, moments of reckoning when
@@ -155,7 +161,7 @@ export function Research() {
         <div
           style={{
             backgroundColor: "#a2b4bd",
-            padding: "1.5rem",
+            padding: "1.0rem",
             borderRadius: "6px",
           }}
         >
