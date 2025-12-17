@@ -152,7 +152,7 @@ export function Research() {
             .
           </p>
         </div>
-        <div>
+        <div style="background-color: #a2b4bd; padding: 1.5rem; border-radius: 6px;">
           <h2 style="color: #46697b;">The Rural Livability Project</h2>
           <p>
             Rural places are often characterized by narratives of depopulation,
