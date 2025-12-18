@@ -3,6 +3,14 @@
     width: 100%;
 }
 
+.research-page-content > div {
+  margin-bottom: 2rem;
+}
+
+.research-page-content > div:last-child {
+  margin-bottom: 0;
+}
+
 .recruitment-box {
   background-color: #74a992;
   padding: 1rem;
