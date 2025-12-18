@@ -4,7 +4,9 @@
 }
 
 .callout-box {
-  background-color: #ce9c9c;
+  background-color: #8b6767;
+  color: white;
   padding: 1rem;
-  margin: 1rem 0;
+  margin: 0.5rem 0;
+  text-align: center;
 }
