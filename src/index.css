@@ -62,6 +62,7 @@ a {
 }
 a:hover {
   color: #7d96a2;
+  text-decoration: underline;
 }
 
 @media (prefers-color-scheme: light) {
