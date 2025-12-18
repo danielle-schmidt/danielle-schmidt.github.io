@@ -64,14 +64,14 @@ export function Research() {
           </p>
           <h3>Related Publications</h3>
           <p>
-            Schmidt, Danielle. “Towards an Emplaced Vocabulary of Motive: Senses
-            of Place and Land Sale Decision-Making in the Northern Great
-            Plains.” Rural Sociology 89, no. 4 (2024): 975–95.
+            Schmidt, Danielle. “
             <a href="https://doi.org/10.1111/ruso.12574" 
               target="_blank">
-              https://doi.org/10.1111/ruso.12574
+              Towards an Emplaced Vocabulary of Motive: Senses
+            of Place and Land Sale Decision-Making in the Northern Great
+            Plains
             </a>
-            .
+            .” Rural Sociology 89, no. 4 (2024): 975–95.
           </p>
         </div>
         <div
@@ -127,37 +127,34 @@ export function Research() {
           </p>
           <h3>Related Publications</h3>
           <p>
-            Schmidt, Danielle. “Towards an Emplaced Vocabulary of Motive: Senses
-            of Place and Land Sale Decision-Making in the Northern Great
-            Plains.” Rural Sociology 89, no. 4 (2024): 975–95.
+            Schmidt, Danielle. “
             <a href="https://doi.org/10.1111/ruso.12574" 
               target="_blank">
-              https://doi.org/10.1111/ruso.12574
+              Towards an Emplaced Vocabulary of Motive: Senses
+            of Place and Land Sale Decision-Making in the Northern Great
+            Plains
             </a>
-            .
+            .” Rural Sociology 89, no. 4 (2024): 975–95.
           </p>
           <p>
-            Curtis, Katherine J., Danielle D. Schmidt, and John C. Canfield.
-            “Views on the Land.” Phillips County News, May 22, 2024.
+            Curtis, Katherine J., Danielle D. Schmidt, and John C. Canfield. “
             <a
               href="https://www.phillipscountynews.com/story/2024/05/22/opinion/views-on-the-land/15471.html"
               target="_blank"
             >
-              https://www.phillipscountynews.com/story/2024/05/22/opinion/views-on-the-land/15471.html
+              Views on the Land
             </a>
-            .
+            .” Phillips County News, May 22, 2024.
           </p>
           <p>
-            Curtis, Katherine J., John C. Canfield, and Danielle D. Schmidt. “A
-            Report on Population and Ag Production in Phillips County, Montana.”
-            University of Wisconsin - Madison, 2021.
+            Curtis, Katherine J., John C. Canfield, and Danielle D. Schmidt. “
             <a
               href="https://apl.wisc.edu/shared/conservation-agriculture-rural/phillips-county"
               target="_blank"
             >
-              https://apl.wisc.edu/shared/conservation-agriculture-rural/phillips-county
+             A Report on Population and Ag Production in Phillips County, Montana
             </a>
-            .
+            .” University of Wisconsin - Madison, 2021.
           </p>
         </div>
         <div
@@ -170,13 +167,12 @@ export function Research() {
           <h2 className="rural-liv-heading">The Rural Livability Project</h2>
           <p>
             Rural places are often characterized by narratives of depopulation,
-            disinvestment, and disengagement. While rural communities do face a
-            number of challenges, not all rural communities are struggling. What
+            disinvestment, and disengagement. But this isn't universally true. What
             can we learn from places that are doing “well”?
           </p>
           <p>
             The Rural Livability Project aims to better understand what makes a
-            place somewhere people want to live. As an interdisciplinary team,
+            place somewhere people want to, and can easily live. As an interdisciplinary team,
             we take novel, spatially-informed approaches to the study of what we
             call livability. My role on the team as a Research Assistant is to
             design and lead studies, engage in community outreach efforts, and
@@ -194,40 +190,35 @@ export function Research() {
          
           <h3>Related Publications</h3>
           <p>
-          Schmidt, Danielle, Tessa Conroy, and Steven Deller. 2025. “Prosperity 
-          Across the United States: Revisiting the Isserman, Feser, and Warren 
-          Prosperity Index using Social Sequence Analysis.” International Regional Science Review. 
+          Schmidt, Danielle, Tessa Conroy, and Steven Deller. 2025. “ 
             <a
               href="https://doi.org/10.1177/01600176251377424" 
               target="_blank"
                >
-            https://doi.org/10.1177/01600176251377424
+            Prosperity Across the United States: Revisiting the Isserman, Feser, and Warren 
+          Prosperity Index using Social Sequence Analysis
              </a>
-            .
+            .” International Regional Science Review.
           </p>
           <p>
-            Schmidt, Danielle, Tessa Conroy, and Steven Deller. 2025. “Pathways
-            to Prosperity: Moving Beyond Growth to Evaluate Change in Community
-            Well-Being.” Choices Magazine 40 (2).
+            Schmidt, Danielle, Tessa Conroy, and Steven Deller. 2025. “
             <a
               href="https://www.choicesmagazine.org/choices-magazine/submitted-articles/pathways-to-prosperity-moving-beyond-growth-to-evaluate-change-in-community-well-being"
               target="_blank"
             >
-              https://www.choicesmagazine.org/choices-magazine/submitted-articles/pathways-to-prosperity-moving-beyond-growth-to-evaluate-change-in-community-well-being
+              Pathways to Prosperity: Moving Beyond Growth to Evaluate Change in Community Well-Being
             </a>
-            .
+            .” Choices Magazine 40 (2).
           </p>
           <p>
-            Schmidt, Danielle, Tessa Conroy, and Steven Deller. “Understanding
-            Wisconsin Prosperity in the National Context.” WIndicators, November
-            26, 2024.
+            Schmidt, Danielle, Tessa Conroy, and Steven Deller. “
             <a
               href="https://economicdevelopment.extension.wisc.edu/articles/windicators-volume-7-issue-2-understanding-wisconsin-prosperity-in-the-national-context/"
               target="_blank"
             >
-              https://economicdevelopment.extension.wisc.edu/articles/windicators-volume-7-issue-2-understanding-wisconsin-prosperity-in-the-national-context/
-            </a>
-            .
+              Understanding Wisconsin Prosperity in the National Context.
+              </a>
+              ” WIndicators, November 26, 2024.
           </p>
           <h3>Media Mentions</h3>
           <p>
@@ -238,7 +229,7 @@ export function Research() {
             >
               Eau Claire County Scores High on State 'Prosperity Index'
             </a>
-            ”, Tom Giffey for VolumeOne News, April 3, 2025
+            ,” Tom Giffey for VolumeOne News, April 3, 2025
           </p>
           <p>
             “
@@ -248,7 +239,7 @@ export function Research() {
             >
               Study finds Wisconsin ranks as one of most prosperous places in U.S.
             </a>
-            ”, Aaron Holbrook for Insight on Business, February 19, 2025
+            ,” Aaron Holbrook for Insight on Business, February 19, 2025
           </p>
 
         </div>
