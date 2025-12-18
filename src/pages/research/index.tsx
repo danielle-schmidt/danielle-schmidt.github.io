@@ -67,7 +67,8 @@ export function Research() {
             Schmidt, Danielle. “Towards an Emplaced Vocabulary of Motive: Senses
             of Place and Land Sale Decision-Making in the Northern Great
             Plains.” Rural Sociology 89, no. 4 (2024): 975–95.
-            <a href="https://doi.org/10.1111/ruso.12574" target="_blank">
+            <a href="https://doi.org/10.1111/ruso.12574" 
+              target="_blank">
               https://doi.org/10.1111/ruso.12574
             </a>
             .
@@ -129,7 +130,8 @@ export function Research() {
             Schmidt, Danielle. “Towards an Emplaced Vocabulary of Motive: Senses
             of Place and Land Sale Decision-Making in the Northern Great
             Plains.” Rural Sociology 89, no. 4 (2024): 975–95.
-            <a href="https://doi.org/10.1111/ruso.12574" target="_blank">
+            <a href="https://doi.org/10.1111/ruso.12574" 
+              target="_blank">
               https://doi.org/10.1111/ruso.12574
             </a>
             .
@@ -196,7 +198,8 @@ export function Research() {
           Across the United States: Revisiting the Isserman, Feser, and Warren 
           Prosperity Index using Social Sequence Analysis.” International Regional Science Review. 
             <a
-              href="https://doi.org/10.1177/01600176251377424" target="_blank"
+              href="https://doi.org/10.1177/01600176251377424" 
+              target="_blank"
                >
             https://doi.org/10.1177/01600176251377424
              </a>
