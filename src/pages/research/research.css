@@ -12,9 +12,11 @@
 }
 
 .recruitment-box {
-  background-color: #74a992;
+  background-color: #ce9c9c;
+  color: #2a3f49;
   padding: 1rem;
   margin: 1rem 0;
+  text-align: center;
 }
 
 .quote-box {
@@ -22,6 +24,7 @@
   color: white;
   padding: 1rem;
   margin: 1rem 0;
+  text-align: center;
 }
 
 .changing-ag-heading {
