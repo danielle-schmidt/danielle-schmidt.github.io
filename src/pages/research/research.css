@@ -27,6 +27,14 @@
   text-align: center;
 }
 
+.APS-box {
+  background-color: #335126;
+  color: white;
+  padding: 1rem;
+  margin: 1rem 0;
+  text-align: center;
+}
+
 .changing-ag-heading {
   color: #335126;
 }
