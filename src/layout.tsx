@@ -28,7 +28,7 @@ export function Layout({ children }: { children?: React.ReactNode }) {
           <img src="/CESoc Transparent Logo.png" alt="Logo" className="footer-logo" />
           </div> 
         <div className="footer-column footer-left">
-          <img src="/RuralLivabilityProject-Logo-FNL (2).png" alt="Logo" className="footer-logo" />
+          <img src="/RuralLivabilityProject-Logo.png" alt="Logo" className="footer-logo" />
           </div> 
         <div className="footer-column footer-center">
           <a href="mailto:dschmidt25@wisc.edu">dschmidt25@wisc.edu</a>
