@@ -32,7 +32,7 @@
 
 @media (prefers-color-scheme: light) {
   .page-header-title {
-    text-shadow: 0 0 4em #ffffff, 0 0 1em #ffffff, 0 0 0.5em #ffffff;
+    text-shadow: none;
   }
 }
 
