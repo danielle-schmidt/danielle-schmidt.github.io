@@ -23,13 +23,10 @@ export function Layout({ children }: { children?: React.ReactNode }) {
       <div className="site-footer">
         <div className="footer-column footer-left">
           <img src="/UW logo.png" alt="Logo" className="footer-logo" />
-        </div>
-        <div className="footer-column footer-left">
           <img src="/CESocLogo.png" alt="Logo" className="footer-logo" />
-          </div> 
-        <div className="footer-column footer-left">
           <img src="/RuralLivabilityProject-Logo.png" alt="Logo" className="footer-logo" />
           </div> 
+        
         <div className="footer-column footer-center">
           <a href="mailto:dschmidt25@wisc.edu">dschmidt25@wisc.edu</a>
         </div>
