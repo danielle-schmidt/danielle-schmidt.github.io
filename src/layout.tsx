@@ -39,7 +39,7 @@ export function Layout({ children }: { children?: React.ReactNode }) {
             <img src="/icons/scholar.svg" alt="Scholar" className="footer-icon" />
           </a>
           <a href="https://www.linkedin.com/in/danielle-schmidt-2019/" target="_blank">
-            <img src="/icons/linkedin.svg" alt="LinkedIn" className="footer-icon" />
+            <img src="/linkedin.svg" className="footer-icon" />
           </a>
           <a href="https://github.com/danielle-schmidt" target="_blank">
             <img src="/icons/github.svg" alt="GitHub" className="footer-icon" />
