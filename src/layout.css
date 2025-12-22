@@ -52,7 +52,11 @@
 .nav-bar a {
   justify-self: end;
   color: rgba(255, 255, 255, 0.87);
-  text-shadow: 0 0 2em #000000;
+  text-shadow:
+    -1px -1px 0 #000,
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
   font-size: large;
   font-weight: 600;
 }
