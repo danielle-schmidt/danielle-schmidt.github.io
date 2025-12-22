@@ -36,13 +36,13 @@ export function Layout({ children }: { children?: React.ReactNode }) {
       
         <div className="footer-column footer-right">
           <a href="https://scholar.google.com/citations?hl=en&user=AoBIat0AAAAJ&view_op=list_works&authuser=3&gmla=AElLoL22V6QNE-ChvWsjMwDVYIQAne_Lg4kkHPgLgjG1_aDKDZX4KPxivdvgdPXXmqEcDYKTNsolN0zQOmnbbgTX" target="_blank">
-            <img src="/icons/scholar.svg" alt="Scholar" className="footer-icon" />
+            <img src="/scholar.svg" className="footer-icon" />
           </a>
           <a href="https://www.linkedin.com/in/danielle-schmidt-2019/" target="_blank">
             <img src="/linkedin.svg" className="footer-icon" />
           </a>
           <a href="https://github.com/danielle-schmidt" target="_blank">
-            <img src="/icons/github.svg" alt="GitHub" className="footer-icon" />
+            <img src="/github.svg" className="footer-icon" />
           </a>
         </div>
       </div>
