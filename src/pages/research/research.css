@@ -35,6 +35,14 @@
   text-align: center;
 }
 
+.aps-link {
+  color: #eeeeee; /* pick your color */
+}
+
+.aps-link:hover {
+  color: #b6d7a8; /* optional hover color */
+}
+
 .changing-ag-heading {
   color: #335126;
 }
