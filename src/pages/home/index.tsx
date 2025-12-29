@@ -31,7 +31,7 @@ export function Home() {
   <em>International Regional Science Review</em>.
           </p>
           <p>
-            Schmidt-Larios received her undergraduate degree in Philosophy and
+            Schmidt-Larios received her undergraduate degrees in Philosophy and
             Public Policy from The University of Chicago, where her research on
             rural internet access won the Richard P. Taub award for best thesis.
             Beyond academia, she has varied experience in the public and
