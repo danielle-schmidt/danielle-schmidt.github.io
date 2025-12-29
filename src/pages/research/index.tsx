@@ -156,16 +156,18 @@ export function Research() {
             </a>
             .” University of Wisconsin - Madison, 2021.
           </p>
-          <div className="APS-box">
-             Listen to "
-             <a
+         <div className="APS-box">
+            Listen to "
+            <a
+              className="aps-link"
               href="https://www.youtube.com/live/JOCRcE-6E1M?si=FIiWO_du5a6lLxRQ&t=9312"
-               target="_blank"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-            Leaving 'Cowboy Ethnography' in the Dust and Advancing the Practice of Collaborative Ethnography
-             </a>   
-               " at the American Philosophical Society's 2025 "Future of Field Work" Symposium
-            </div>
+              Leaving 'Cowboy Ethnography' in the Dust and Advancing the Practice of Collaborative Ethnography
+            </a>
+            " at the American Philosophical Society's 2025 "Future of Field Work" Symposium
+          </div>
         </div>
         <div
           style={{
