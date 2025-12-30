@@ -100,7 +100,7 @@ export function Research() {
           </p>
           <p>
             This is a long-term project focused on public scholarship and
-            community partnership. Read more about this collaborative project{" "}
+            community partnership. Read more{" "}
             <a
               href="https://apl.wisc.edu/shared/conservation-agriculture-rural"
               target="_blank"
