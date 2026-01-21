@@ -8,9 +8,9 @@ export function Research() {
       <div className="research-page-content">
         <div
           style={{
-            border: "1px solid black",
-            padding: "1rem",
-            margin: "1rem 0",
+            backgroundColor: "#d2a5a5",
+            padding: "1.0rem",
+            borderRadius: "6px",
           }}
         >
           <h2>Dissertation: "Reserved"</h2>
