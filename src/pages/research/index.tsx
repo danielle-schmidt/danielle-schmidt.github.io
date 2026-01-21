@@ -13,7 +13,7 @@ export function Research() {
             borderRadius: "6px",
           }}
         >
-          <h2>Dissertation: "Reserved"</h2>
+          <h2 className="dissertation-heading">Dissertation: "Reserved"</h2>
             <div className="recruitment-box">
               I am actively recruiting participants for this research study. If you have
               connections to either the Kickapoo Valley or Upper Missouri River Breaks and
