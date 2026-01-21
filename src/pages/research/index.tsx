@@ -8,7 +8,7 @@ export function Research() {
       <div className="research-page-content">
         <div
           style={{
-            backgroundColor: "#d2a5a5",
+            backgroundColor: "#bca7a7",
             padding: "1.0rem",
             borderRadius: "6px",
           }}
