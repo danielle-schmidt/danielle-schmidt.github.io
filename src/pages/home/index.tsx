@@ -27,7 +27,7 @@ export function Home() {
             livability. As a community-engaged mixed-methodologist,
             Schmidt-Larios incorporates ethnographic sensibilities and spatial
             thinking to investigate the concepts of place, land, and home.  Her work has been published in journals such as <em>Rural Sociology</em>,{" "}
-  <em>Journal of Agriculture, Food Systems, and Community Development</em>, and{" "}
+  <em>Agriculture and Human Values</em>, and{" "}
   <em>International Regional Science Review</em>.
           </p>
           <p>
