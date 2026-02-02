@@ -69,17 +69,17 @@ export function Research() {
               target="_blank">
               Land through Three Approaches
             </a>
-            .” Agriculture and Human Values 43 (1).
+            .” Agriculture and Human Values 43(1).
           </p>
           <p>
-            Schmidt, Danielle. “
+            Schmidt, Danielle. 2024. “
             <a href="https://doi.org/10.1111/ruso.12574" 
               target="_blank">
               Towards an Emplaced Vocabulary of Motive: Senses
             of Place and Land Sale Decision-Making in the Northern Great
             Plains
             </a>
-            .” Rural Sociology 89, no. 4 (2024): 975–95.
+            .” Rural Sociology, 89(4), 975–95.
           </p>
         </div>
         <div
@@ -135,14 +135,14 @@ export function Research() {
           </p>
           <h3>Related Publications</h3>
           <p>
-            Schmidt, Danielle. “
+            Schmidt, Danielle. 2024. “
             <a href="https://doi.org/10.1111/ruso.12574" 
               target="_blank">
               Towards an Emplaced Vocabulary of Motive: Senses
             of Place and Land Sale Decision-Making in the Northern Great
             Plains
             </a>
-            .” Rural Sociology 89, no. 4 (2024): 975–95.
+            .” Rural Sociology, 89(4), 975–95.
           </p>
           <p>
             Curtis, Katherine J., Danielle D. Schmidt, and John C. Canfield. “
