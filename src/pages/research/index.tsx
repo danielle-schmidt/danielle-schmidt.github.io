@@ -64,6 +64,14 @@ export function Research() {
           </p>
           <h3>Related Publications</h3>
           <p>
+            Schmidt-Larios, Danielle. 2026. “
+            <a href="https://doi.org/10.1007/s10460-026-10853-1" 
+              target="_blank">
+              Land through Three Approaches
+            </a>
+            .” Agriculture and Human Values 43 (1).
+          </p>
+          <p>
             Schmidt, Danielle. “
             <a href="https://doi.org/10.1111/ruso.12574" 
               target="_blank">
