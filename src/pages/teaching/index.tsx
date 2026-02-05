@@ -28,7 +28,7 @@ export function Teaching() {
         <ul>          
           <li>Critical Environmental Sociology</li>
           <li>Methods of Social Science</li>
-          <li>Natural Resources & Agrifood Systems</li>
+          <li>Natural Resources and Agrifood Systems</li>
           <li>Rural Sociology: Rural Peoples and Places</li>
           <li>Spatial Thinking</li>
         </ul>
