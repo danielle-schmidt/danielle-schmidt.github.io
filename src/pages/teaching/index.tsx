@@ -25,12 +25,12 @@ export function Teaching() {
           I am interested in teaching courses at the undergraduate or graduate
           level on the following topics:
         </p>
-        <ul>
-          <li>Rural Sociology: Rural peoples and places</li>
-          <li>Natural Resources & Agrifood Systems</li>
+        <ul>          
           <li>Critical Environmental Sociology</li>
+          <li>Methods of Social Science</li>
+          <li>Natural Resources & Agrifood Systems</li>
+          <li>Rural Sociology: Rural Peoples and Places</li>
           <li>Spatial Thinking</li>
-          <li>Social Science Methods</li>
         </ul>
         <p>Assessments of my instruction are available upon request.</p>
       </div>
