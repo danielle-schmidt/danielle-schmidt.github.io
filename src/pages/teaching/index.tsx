@@ -26,14 +26,11 @@ export function Teaching() {
           level on the following topics:
         </p>
         <ul>
-          <li>Land and landownership</li>
-          <li>Agrifood systems and/or agrarian studies</li>
-          <li>Environmental sociology</li>
-          <li>Rural people, places, and communities</li>
-          <li>Protected areas and conservation</li>
-          <li>Natural resource-based labor</li>
-          <li>Sense of place</li>
-          <li>Methods (qualitative, spatial, mixed, and/or case)</li>
+          <li>Rural Sociology: Rural peoples and places</li>
+          <li>Natural Resources & Agrifood Systems</li>
+          <li>Critical Environmental Sociology</li>
+          <li>Spatial Thinking</li>
+          <li>Social Science Methods</li>
         </ul>
         <p>Assessments of my instruction are available upon request.</p>
       </div>
