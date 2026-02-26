@@ -201,7 +201,14 @@ export function Research() {
           <p>
             If you are interested in discussing this work, I invite you to get
             in touch or read more about the Rural Livability Project on our
-            project website [coming soon].
+            project 
+            <a
+              href="https://www.rurallivability.org/" 
+              target="_blank"
+               >
+            website
+             </a>
+            .
            </p>
               
            <div className="quote-box">
