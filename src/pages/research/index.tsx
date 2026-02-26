@@ -206,7 +206,7 @@ export function Research() {
               href="https://www.rurallivability.org/" 
               target="_blank"
                >
-            website
+             website
              </a>
             .
            </p>
