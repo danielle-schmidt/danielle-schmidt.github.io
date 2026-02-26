@@ -201,16 +201,15 @@ export function Research() {
           <p>
             If you are interested in discussing this work, I invite you to get
             in touch or read more about the Rural Livability Project on our
-            project 
+            project {" "}
             <a
-              href="https://www.rurallivability.org/" 
+              href="https://www.rurallivability.org"
               target="_blank"
-               >
-             website
-             </a>
+            >
+              website
+            </a>
             .
            </p>
-              
            <div className="quote-box">
              "Social, economic, and environmental justice issues do not grow any less significant as population density decreases" (Schmidt et al. 2025). 
             </div>
