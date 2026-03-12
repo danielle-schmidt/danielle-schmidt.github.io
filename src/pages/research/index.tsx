@@ -187,7 +187,7 @@ export function Research() {
           <h2 className="rural-liv-heading">The Rural Livability Project</h2>
           <p>
             Rural places are often characterized by narratives of depopulation,
-            disinvestment, and disengagement. But this isn't universally true. What
+            disinvestment, and disengagement. But that's not universally true. What
             can we learn from places that are doing “well”?
           </p>
           <p>
@@ -200,8 +200,8 @@ export function Research() {
           </p>
           <p>
             If you are interested in discussing this work, I invite you to get
-            in touch or read more about the Rural Livability Project on our
-            project {" "}
+            in touch or read more about the Rural Livability Project on our 
+            {" "}
             <a
               href="https://www.rurallivability.org"
               target="_blank"
