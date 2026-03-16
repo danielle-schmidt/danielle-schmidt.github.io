@@ -1,8 +1,10 @@
+import { useState } from "react"; // Import useState
 import { Link } from "react-router";
-
 import "./layout.css";
 
 export function Layout({ children }: { children?: React.ReactNode }) {
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+
   return (
     <>
       <div className="page-header">
