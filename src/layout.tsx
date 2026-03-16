@@ -12,8 +12,10 @@ export function Layout({ children }: { children?: React.ReactNode }) {
             <Link to="/">Home</Link>
             <Link to="/research">Research</Link>
             <Link to="/teaching">Teaching</Link>
-            <Link to="/outreach">Outreach</Link>
-            <Link to="/resources">Resources</Link>
+            {/* Hiding these for now:
+    <Link to="/outreach">Outreach</Link>
+    <Link to="/resources">Resources</Link> 
+  */}
           </nav>
         </div>
       </div>
