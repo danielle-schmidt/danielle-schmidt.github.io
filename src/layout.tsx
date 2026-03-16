@@ -10,10 +10,19 @@ export function Layout({ children }: { children?: React.ReactNode }) {
       <div className="page-header">
         <div className="page-header-content">
           <h1 className="page-header-title">Danielle Schmidt-Larios</h1>
-          <nav className="nav-bar">
-            <Link to="/">Home</Link>
-            <Link to="/research">Research</Link>
-            <Link to="/teaching">Teaching</Link>
+          {/* Hamburger Icon */}
+          <button 
+            className="menu-toggle" 
+            onClick={() => setIsMenuOpen(!isMenuOpen)}
+          >
+            {isMenuOpen ? "✕" : "☰"}
+          </button>
+
+          {/* Nav Bar with dynamic "open" class */}
+          <nav className={`nav-bar ${isMenuOpen ? "open" : ""}`}>
+            <Link to="/" onClick={() => setIsMenuOpen(false)}>Home</Link>
+            <Link to="/research" onClick={() => setIsMenuOpen(false)}>Research</Link>
+            <Link to="/teaching" onClick={() => setIsMenuOpen(false)}>Teaching</Link>
             {/* Hiding these for now:
     <Link to="/outreach">Outreach</Link>
     <Link to="/resources">Resources</Link> 
