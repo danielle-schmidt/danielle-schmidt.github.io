@@ -60,7 +60,7 @@ export function Research() {
             Society Dissertation Research Award, Center for Integrated
             Agricultural Systems, Evelyn T. Crowe Scholarship Fund (Community &
             Environmental Sociology), Rural Livability Project (Agriculture &
-            Applied Economics), and Department of Sociology at UW-Madison.
+            Applied Economics), and Calvin L. Beale Endowment (Department of Sociology).
           </p>
           <h3>Related Publications</h3>
           <p>
