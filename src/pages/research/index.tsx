@@ -267,6 +267,52 @@ export function Research() {
 
         </div>
       </div>
+
+       <div
+          style={{
+            backgroundColor: "#99a892",
+            padding: "1.0rem",
+            borderRadius: "6px",
+          }}
+        >
+          <h2 className="changing-ag-heading">Wildfires in the Workplace</h2>
+          <p>
+            The risks posed by wildfires are growing as the chance of fire increases every year. 
+            In this study, we focus on the effects of wildfires in the agricultural workplace among 
+            Latinx farmworkers in the northern California winegrape industry. 
+             </p>
+         <p>
+          Wine-country is expected to see more fires than any other region in the state in the next three decades. 
+          The thousands of farmworkers employed between Sonoma County and Napa County are at 
+           especially high risk in these hotter and longer wildfire seasons. Of the nearly 100 farmworkers we surveyed in 2023,
+           more than half (57.73%) report working in conditions with visible wildfire smoke, often for more than one work day. 
+          </p>
+          <p>
+         Building a just and climate resilient future will demand reckoning with broader, less visible failures of labor protections, 
+            including the cumulative effects of climate disasters that are increasingly inevitable. 
+         </p>
+          <h3>Collaborator</h3>
+          <p>
+            <a
+              href="https://www.humboldt.edu/environmental-studies/sarah-rios-0"
+              target="_blank"
+            >
+              Sarah Rios
+            </a>{" "}
+            </p>
+         <div className="APS-box">
+            Read about our community partnernship with Líderes Campesinas in the
+            <a
+              className="aps-link"
+              href="https://liderescampesinas.org/f-i-r-e-project/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              F.I.R.E. project report
+            </a>
+            .
+          </div>
+        </div>
     </Layout>
   );
 }
