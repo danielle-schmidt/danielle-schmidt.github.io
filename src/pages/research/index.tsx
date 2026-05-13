@@ -192,7 +192,7 @@ export function Research() {
             The Rural Livability Project aims to better understand what makes a
             place somewhere people want to, and can easily live. As an interdisciplinary team,
             we take novel, spatially-informed approaches to the study of what we
-            call livability. My role on the team as a Research Assistant is to
+            call livability. My role in the project is to
             design and lead studies, engage in community outreach efforts, and
             participate in active collaboration with the rest of the team.
           </p>
