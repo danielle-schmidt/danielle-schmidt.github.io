@@ -43,6 +43,22 @@
   color: #b6d7a8; /* optional hover color */
 }
 
+.wildfire-box {
+  background-color: #e5ce89;
+  color: white;
+  padding: 1rem;
+  margin: 1rem 0;
+  text-align: center;
+}
+
+.aps-link {
+  color: #eeeeee; /* pick your color */
+}
+
+.aps-link:hover {
+  color: #e5ce89; /* optional hover color */
+}
+
 .dissertation-heading {
   color: #906d6d;
 }
@@ -53,4 +69,8 @@
 
 .rural-liv-heading {
   color: #46697b;
+}
+
+.wildfire-heading {
+  color: #e5ce89;
 }
