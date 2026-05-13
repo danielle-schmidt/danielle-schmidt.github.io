@@ -268,7 +268,7 @@ export function Research() {
         </div>
        <div
           style={{
-            backgroundColor: "#ffefc1",
+            backgroundColor: "#fff2cc",
             padding: "1.0rem",
             borderRadius: "6px",
           }}
@@ -306,7 +306,7 @@ export function Research() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              F.I.R.E. project report
+               F.I.R.E. project report
             </a>
             .
           </div>
