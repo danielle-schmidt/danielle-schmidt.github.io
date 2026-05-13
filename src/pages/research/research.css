@@ -51,11 +51,11 @@
   text-align: center;
 }
 
-.aps-link {
+.wildfire-link {
   color: #eeeeee; /* pick your color */
 }
 
-.aps-link:hover {
+.wildfire-link:hover {
   color: #e5ce89; /* optional hover color */
 }
 
