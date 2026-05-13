@@ -266,16 +266,14 @@ export function Research() {
           </p>
 
         </div>
-      </div>
-
        <div
           style={{
-            backgroundColor: "#99a892",
+            backgroundColor: "#ffefc1",
             padding: "1.0rem",
             borderRadius: "6px",
           }}
         >
-          <h2 className="changing-ag-heading">Wildfires in the Workplace</h2>
+          <h2 className="wildfire-heading">Wildfires in the Workplace</h2>
           <p>
             The risks posed by wildfires are growing as the chance of fire increases every year. 
             In this study, we focus on the effects of wildfires in the agricultural workplace among 
@@ -300,10 +298,10 @@ export function Research() {
               Sarah Rios
             </a>{" "}
             </p>
-         <div className="APS-box">
-            Read about our community partnernship with Líderes Campesinas in the
+         <div className="wildfire-box">
+            Read about our community partnernship with Líderes Campesinas in the 
             <a
-              className="aps-link"
+              className="wildfire-link"
               href="https://liderescampesinas.org/f-i-r-e-project/"
               target="_blank"
               rel="noopener noreferrer"
@@ -313,6 +311,7 @@ export function Research() {
             .
           </div>
         </div>
+       </div>
     </Layout>
   );
 }
