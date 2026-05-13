@@ -52,11 +52,11 @@
 }
 
 .wildfire-link {
-  color: #eeeeee; /* pick your color */
+  color: white; /* pick your color */
 }
 
 .wildfire-link:hover {
-  color: #e5ce89; /* optional hover color */
+  color: #fff2cc; /* optional hover color */
 }
 
 .dissertation-heading {
