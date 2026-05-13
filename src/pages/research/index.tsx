@@ -289,17 +289,8 @@ export function Research() {
          Building a just and climate resilient future will demand reckoning with broader, less visible failures of labor protections, 
             including the cumulative effects of climate disasters that are increasingly inevitable. 
          </p>
-          <h3>Collaborator</h3>
-          <p>
-            <a
-              href="https://www.humboldt.edu/environmental-studies/sarah-rios-0"
-              target="_blank"
-            >
-              Sarah Rios
-            </a>{" "}
-            </p>
          <div className="wildfire-box">
-            Read about our community partnernship with Líderes Campesinas in the 
+            Read about our community partnernship with Líderes Campesinas in the{" "} 
             <a
               className="wildfire-link"
               href="https://liderescampesinas.org/f-i-r-e-project/"
@@ -310,6 +301,15 @@ export function Research() {
             </a>
             .
           </div>
+          <h3>Collaborator</h3>
+          <p>
+            <a
+              href="https://www.humboldt.edu/environmental-studies/sarah-rios-0"
+              target="_blank"
+            >
+              Sarah Rios
+            </a>{" "}
+            </p>
         </div>
        </div>
     </Layout>
