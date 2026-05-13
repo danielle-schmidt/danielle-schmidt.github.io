@@ -57,10 +57,8 @@ export function Research() {
           <h3>Funding Statement</h3>
           <p>
             This research is financially supported by the Rural Sociological
-            Society Dissertation Research Award, Center for Integrated
-            Agricultural Systems, Evelyn T. Crowe Scholarship Fund (Community &
-            Environmental Sociology), Rural Livability Project (Agriculture &
-            Applied Economics), and Calvin L. Beale Endowment (Department of Sociology).
+            Society (Dissertation Research Award), Center for Integrated
+            Agricultural Systems (Mini-grant), Dept. of Community and Environmental Sociology (Kolb Memorial Fund, Evelyn T. Crowe Fund), Dept. of Sociology (Calvin L. Beale Endowment) and the Rural Livability Project.
           </p>
           <h3>Related Publications</h3>
           <p>
