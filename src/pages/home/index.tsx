@@ -23,7 +23,7 @@ export function Home() {
             </a>
             . Her research sits at the nexus of rural and environmental sociology, with ongoing projects examining land tenure, agricultural labor, and rural 
             livability. As a community-engaged mixed-methodologist, Schmidt-Larios integrates ethnographic sensibilities and spatial analysis to investigate 
-            the concepts of place, land, and home. Her research has been published in journals such as <em>Rural Sociology</em>,{" "}
+            the concepts of place, land, and home. Her research has been published in journals such as <em>Rural Sociology</em> and{" "}
   <em>Agriculture and Human Values</em>, and has received financial support from organizations including the Rural Sociological Society (RSS) 
             and Center for Integrated Agricultural Systems (CIAS).
             </p>
