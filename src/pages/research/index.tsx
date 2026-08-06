@@ -13,7 +13,7 @@ export function Research() {
             borderRadius: "6px",
           }}
         >
-          <h2 className="dissertation-heading">Dissertation: "Reserved"</h2>
+          <h2 className="dissertation-heading">Dissertation: "Spatiotemporalities of Ag Land Loss"</h2>
             <div className="recruitment-box">
               I am actively recruiting participants for this research study. If you have
               connections to either the Kickapoo Valley or Upper Missouri River Breaks and
@@ -26,7 +26,7 @@ export function Research() {
             exited production, including 65 million acres over the course of a
             single generation (1992). This is alongside a parallel, but less
             well-documented, trend of extensive efforts to protect natural
-            landscapes for conservation: approximately 69 million acres of land
+            landscapes for conservation: approximately 72 million acres of land
             have entered environmental protection status since 1992.
           </p>
           <p>
@@ -44,7 +44,7 @@ export function Research() {
             contextualize rural and agricultural land transitions over the last
             thirty years, I engage in field-based data collection in two
             locations: the Upper Missouri River Breaks of northeastern Montana
-            and the Kickapoo Valley in the Wisconsin Driftless Area.
+            and the Kickapoo Valley in the Wisconsin Driftless Area. Portions of the dissertation will be developed into a book manuscript focusing on these two cases.
           </p>
           <p>
             The transition of US agricultural land to conservation reserves,
@@ -213,6 +213,16 @@ export function Research() {
             </div>
          
           <h3>Related Publications</h3>
+          <p>
+          Schmidt-Larios, Danielle, Mckenzie Boyce, Tessa Conroy, and Steven Deller. “ 
+            <a
+              href="https://economicdevelopment.extension.wisc.edu/articles/windicators-sharing-livability-assessing-the-link-between-rural-and-urban-prosperity/" 
+              target="_blank"
+               >
+            Sharing Livability: Assessing the Link Between Rural and Urban Prosperity
+             </a>
+            .” WIndicators, June 2026.
+          </p>
           <p>
           Schmidt, Danielle, Tessa Conroy, and Steven Deller. 2025. “ 
             <a
