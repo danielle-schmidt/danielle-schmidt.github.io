@@ -43,7 +43,7 @@ export function Home() {
             consulting, and economic development. Danielle enjoys spending time
             outside and is an avid DIY’er, community volunteer, and horseback
             rider. She resides in Madison, Wisconsin with her two- and
-            four-legged family members: Leo, Chet, and Archie.
+            four-legged family members: Leo, Chet, Archie, and Maslow.
           </p>
           <div className="cv-link-container">
             <a
