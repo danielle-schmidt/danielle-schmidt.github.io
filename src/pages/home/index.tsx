@@ -48,7 +48,7 @@ export function Home() {
           <div className="cv-link-container">
             <a
               className="cv-link"
-              href="/Aug2026_CV_Schmidt-Larios.pdf"
+              href="/Sep2026_CV_Schmidt-Larios.pdf"
               target="_blank"
             >
               View CV
