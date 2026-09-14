@@ -1,14 +1,19 @@
 <!doctype html>
 <html lang="en">
   <head>
-   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6ZGRZTSKRR"></script>
+<!-- Google tag (gtag.js) with hostname protection -->
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  if (window.location.hostname === 'danielleschmidtlarios.com') {
+    var gaScript = document.createElement('script');
+    gaScript.async = true;
+    gaScript.src = '[https://www.googletagmanager.com/gtag/js?id=G-6ZGRZTSKRR](https://www.googletagmanager.com/gtag/js?id=G-6ZGRZTSKRR)';
+    document.head.appendChild(gaScript);
 
-  gtag('config', 'G-6ZGRZTSKRR');
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-6ZGRZTSKRR');
+  }
 </script>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
