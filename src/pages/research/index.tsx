@@ -23,7 +23,7 @@ export function Research() {
            
           <p>
             Between 1950 and 2022, nearly a quarter of US agricultural land
-            exited production, including 65 million acres over the course of a
+            exited production, including 64 million acres over the course of a
             single generation (1992). This is alongside a parallel, but less
             well-documented, trend of extensive efforts to protect natural
             landscapes for conservation: approximately 72 million acres of land
@@ -44,7 +44,7 @@ export function Research() {
             contextualize rural and agricultural land transitions over the last
             thirty years, I engage in field-based data collection in two
             locations: the Upper Missouri River Breaks of northeastern Montana
-            and the Kickapoo Valley in the Wisconsin Driftless Area. Portions of the dissertation will be developed into a book manuscript focusing on these two cases.
+            and the Kickapoo Valley in southwestern Wisconsin. Portions of the dissertation will be developed into a book manuscript focusing on these two cases.
           </p>
           <p>
             The transition of US agricultural land to conservation reserves,
@@ -90,7 +90,12 @@ export function Research() {
           <h2 className="changing-ag-heading">Changing Agricultural Landscapes</h2>
           <p>
             Places are dynamic. There are, however, moments of reckoning when
-            places are fundamentally reshaped. Professor Katherine Curtis and I
+            places are fundamentally reshaped. Professor {" "} <a
+              href="https://dces.wisc.edu/directory/katherine-curtis/"
+              target="_blank"
+            >
+              Katherine J. Curtis
+            </a>{" "} and I
             focus on one such community undergoing changing place identities in
             a long-term oral history project.
           </p>
@@ -115,22 +120,7 @@ export function Research() {
             </a>
             .
           </p>
-          <h3>Collaborators</h3>
-          <p>
-            <a
-              href="https://dces.wisc.edu/directory/katherine-curtis/"
-              target="_blank"
-            >
-              Katherine J. Curtis
-            </a>{" "}
-            and{" "}
-            <a
-              href="https://sociology.wisc.edu/staff/canfield-john/"
-              target="_blank"
-            >
-              John Canfield
-            </a>
-          </p>
+
           <h3>Related Publications</h3>
           <p>
             Schmidt, Danielle. 2024. “
@@ -193,7 +183,7 @@ export function Research() {
             place somewhere people want to, and can easily live. As an interdisciplinary team,
             we take novel, spatially-informed approaches to the study of what we
             call livability. My role in the project is to
-            design and lead studies, engage in community outreach efforts, and
+            design and lead studies, engage in community outreach efforts (via Extension), and
             participate in active collaboration with the rest of the team.
           </p>
           <p>
@@ -287,7 +277,12 @@ export function Research() {
           <h2 className="wildfire-heading">Wildfires in the Workplace</h2>
           <p>
             The risks posed by wildfires are growing as the chance of fire increases every year. 
-            In this study, we focus on the effects of wildfires in the agricultural workplace among 
+            In this study, Professor  {" "}   <a
+              href="https://www.humboldt.edu/environmental-studies/sarah-rios-0"
+              target="_blank"
+            >
+              Sarah Rios
+            </a>{" "} and I focus on the effects of wildfires in the agricultural workplace among 
             Latinx farmworkers in the northern California winegrape industry. 
              </p>
          <p>
@@ -312,15 +307,7 @@ export function Research() {
             </a>
             .
           </div>
-          <h3>Collaborator</h3>
-          <p>
-            <a
-              href="https://www.humboldt.edu/environmental-studies/sarah-rios-0"
-              target="_blank"
-            >
-              Sarah Rios
-            </a>{" "}
-            </p>
+
         </div>
        </div>
     </Layout>
