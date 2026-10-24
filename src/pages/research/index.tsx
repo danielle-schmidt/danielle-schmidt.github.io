@@ -204,6 +204,16 @@ export function Research() {
          
           <h3>Related Publications</h3>
           <p>
+          Boyce, Mckenzie, Danielle Schmidt-Larios, Erin Gaede, and Yang Cheng. “ 
+            <a
+              href="https://www.sciencedirect.com/science/article/pii/S0743016726004894?via%3Dihub" 
+              target="_blank"
+               >
+            The Community Capitals Dataset: Quantifying the Community Capitals Framework in the United States
+             </a>
+            .” Journal of Rural Studies, 2027.
+          </p>
+          <p>
           Schmidt-Larios, Danielle, Mckenzie Boyce, Tessa Conroy, and Steven Deller. “ 
             <a
               href="https://economicdevelopment.extension.wisc.edu/articles/windicators-sharing-livability-assessing-the-link-between-rural-and-urban-prosperity/" 
